@@ -1,0 +1,179 @@
+Id=2;
+Key=21; Value=2;
+Key=22; Value=5;
+Key=23; Value=6;
+Key=24; Value=5;
+
+Id=2;
+Key=21; Value=7;
+Key=22; Value=8;
+Key=23; Value=10;
+Key=24; Value=6;
+Key=25; Value=7;
+Key=26; Value=5;
+
+Id=2;
+Key=21; Value=7;
+Key=22; Value=1;
+Key=23; Value=8;
+Key=24; Value=10;
+Key=25; Value=1;
+Key=26; Value=1;
+
+Id=4;
+Key=41; Value=6;
+Key=42; Value=1;
+
+Id=3;
+Key=31; Value=3;
+
+Id=5;
+Key=51; Value=5;
+Key=52; Value=1;
+Key=53; Value=9;
+
+Id=1;
+Key=11; Value=1;
+Key=12; Value=8;
+
+Id=5;
+Key=51; Value=5;
+Key=52; Value=10;
+Key=53; Value=7;
+
+Id=5;
+Key=51; Value=6;
+Key=52; Value=7;
+Key=53; Value=4;
+
+Id=5;
+Key=51; Value=4;
+Key=52; Value=6;
+Key=53; Value=1;
+
+Id=2;
+Key=21; Value=10;
+Key=22; Value=6;
+Key=23; Value=3;
+Key=24; Value=1;
+Key=25; Value=9;
+Key=26; Value=6;
+Key=27; Value=9;
+
+Id=2;
+Key=21; Value=5;
+Key=22; Value=10;
+Key=23; Value=8;
+Key=24; Value=9;
+Key=25; Value=7;
+Key=26; Value=1;
+
+Id=5;
+Key=51; Value=8;
+Key=52; Value=1;
+Key=53; Value=4;
+
+Id=1;
+Key=11; Value=2;
+Key=12; Value=1;
+Key=13; Value=7;
+
+Id=2;
+Key=21; Value=9;
+Key=22; Value=7;
+Key=23; Value=3;
+Key=24; Value=3;
+Key=25; Value=2;
+Key=26; Value=9;
+Key=27; Value=5;
+
+Id=4;
+Key=41; Value=1;
+
+Id=1;
+Key=11; Value=5;
+Key=12; Value=5;
+
+Id=7;
+Key=71; Value=9;
+Key=72; Value=8;
+Key=73; Value=9;
+Key=74; Value=3;
+
+Id=2;
+Key=21; Value=4;
+Key=22; Value=5;
+Key=23; Value=4;
+Key=24; Value=9;
+Key=25; Value=8;
+Key=26; Value=9;
+
+Id=2;
+Key=21; Value=2;
+Key=22; Value=2;
+Key=23; Value=2;
+Key=24; Value=3;
+Key=25; Value=8;
+Key=26; Value=3;
+
+Id=1;
+Key=11; Value=3;
+Key=12; Value=7;
+
+Id=7;
+Key=71; Value=7;
+Key=72; Value=4;
+Key=73; Value=5;
+Key=74; Value=4;
+Key=75; Value=10;
+Key=76; Value=6;
+Key=77; Value=7;
+
+Id=6;
+Key=61; Value=10;
+Key=62; Value=1;
+Key=63; Value=6;
+
+Id=4;
+Key=41; Value=5;
+Key=42; Value=9;
+
+Id=7;
+Key=71; Value=4;
+Key=72; Value=3;
+Key=73; Value=9;
+Key=74; Value=3;
+
+Id=2;
+Key=21; Value=1;
+Key=22; Value=3;
+Key=23; Value=10;
+Key=24; Value=3;
+
+Id=7;
+Key=71; Value=7;
+Key=72; Value=7;
+Key=73; Value=8;
+Key=74; Value=2;
+Key=75; Value=2;
+Key=76; Value=7;
+Key=77; Value=6;
+
+Id=4;
+Key=41; Value=7;
+
+Id=1;
+Key=11; Value=8;
+Key=12; Value=6;
+
+Id=4;
+Key=41; Value=1;
+
+Id=2;
+Key=21; Value=8;
+Key=22; Value=6;
+Key=23; Value=3;
+Key=24; Value=6;
+Key=25; Value=7;
+Key=26; Value=2;
+
